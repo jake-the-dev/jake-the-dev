@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details> 
-  <summary> My Resume </summary>
-  - **My actual resume**\
-  Link
-  - 📖 **Web Development**\
-  General Assembly
+  <summary>📃 My Resume</summary>
+## Education
+
+- **My actual resume**\  
+Link
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University
 </details>
