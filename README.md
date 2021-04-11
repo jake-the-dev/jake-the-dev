@@ -1,5 +1,17 @@
 ### Hi there 👋 Don't look yet - I'm still getting ready. 
 
+<details> 
+  <summary>📃 My Resume</summary>
+## Education
+
+- **My actual resume**  
+Link
+
+- 📖 **Web Development**  
+📆 2020 - 2021\
+📍 **General Assembly - Software Engineering Immersive
+</details>
+
 <!--
 **jake-the-dev/jake-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details> 
-  <summary>📃 My Resume</summary>
-## Education
-
-- **My actual resume**  
-Link
-
-- 📖 **Web Development**
-📆 2020 - 2021\
-📍 **General Assembly - Software Engineering Immersive
-</details>
