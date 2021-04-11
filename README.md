@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   <summary>📃 My Resume</summary>
 ## Education
 
-- **My actual resume**\  
+- **My actual resume**  
 Link
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University
+- 📖 **Web Development**
+📆 2020 - 2021\
+📍 **General Assembly - Software Engineering Immersive
 </details>
