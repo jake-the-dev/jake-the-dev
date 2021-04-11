@@ -7,9 +7,9 @@
 - **My actual resume**  
 Link
 
-- 📖 **Web Development**  
+- 📖 **Web Development**\
 📆 2020 - 2021\
-📍 **General Assembly - Software Engineering Immersive
+📍 **General Assembly** - Software Engineering Immersive
 </details>
 
 <!--
