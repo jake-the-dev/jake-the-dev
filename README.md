@@ -1,12 +1,15 @@
 ### Hi there 👋 Don't look yet - I'm still getting ready. 
 
   
+
+<details>
+<summary>Main</summary>
   # 🚀 What's on my toolbelt? 
   ### **Languages**
   
   >![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   
 
@@ -26,29 +29,38 @@
   ### **Tools**
   >![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   
   ### **Operating Systems**
   >![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
    
-  ### Want to learn:
-  
-
-
+</details>
 
 <details> 
   <summary>📃 My Resume</summary>
 ## Education
 
 - **My actual resume**  
-Link
+Link - TODO
 
 - 📖 **Web Development**\
 📆 2020 - 2021\
 📍 **General Assembly** - Software Engineering Immersive
+</details>
+<details>
+<summary>  My Stats</summary>
+<a href="https://www.100daysofcode.com">
+    <img
+        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
+    />
+</a>
+<a href="#"><img src="https://badges.pufler.dev/visits/jake-the-dev/jake-the-dev"></a>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jake-the-dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
 </details>
 
 <!--
