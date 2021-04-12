@@ -1,10 +1,8 @@
 ### Hi there 👋 Don't look yet - I'm still getting ready. 
 
-  
-
 <details>
-<summary>Main</summary>
-  # 🚀 What's on my toolbelt? 
+<summary>My Toolbox</summary>
+
   ### **Languages**
   
   >![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
