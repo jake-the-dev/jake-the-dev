@@ -20,7 +20,8 @@
   ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-  >##### Ruby related
+  
+  >#### Ruby related
   >>![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -47,6 +48,12 @@ Link - TODO
 - 📖 **Web Development**\
 📆 2020 - 2021\
 📍 **General Assembly** - Software Engineering Immersive
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 </details>
 <details>
 <summary>  My Stats</summary>
