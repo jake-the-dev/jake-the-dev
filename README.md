@@ -1,8 +1,6 @@
 ### Hi there 👋 Don't look yet - I'm still getting ready. 
 
-
-<details>
-<summary>:toolbox: My Toolbox</summary>
+# <details><summary>:toolbox: My Toolbox</summary>
 <div align="left">
 
   ### **LANGUAGES** :australia:
@@ -43,8 +41,7 @@
 </div>
 </details>
 
-<details> 
-  <summary>:page_with_curl: My Resume</summary>
+# <details><summary>:page_with_curl: My Resume</summary>
 ## Education
 
 - **My actual resume**  
