@@ -55,18 +55,7 @@ Link - TODO
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 </details>
-<details>
-<summary>  My Stats</summary>
-<a href="https://www.100daysofcode.com">
-    <img
-        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
-    />
-</a>
-<a href="#"><img src="https://badges.pufler.dev/visits/jake-the-dev/jake-the-dev"></a>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jake-the-dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
-</details>
 
 <!--
 **jake-the-dev/jake-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
